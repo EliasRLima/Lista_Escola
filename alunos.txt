@@ -1,0 +1,6 @@
+123 1 Joao da Silva
+145 1 Pedro dos Anjos Santos
+187 1 Ana Bastos Brasil
+476 2 Maria da Costa Araújo
+502 2 Karla Bezerra da Silva
+126 2 Elias Lima
